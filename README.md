@@ -27,8 +27,8 @@
 
 ## 📸 Preview
 
-![Street Connect Preview](preview-image.png)  
-*(Replace `preview-image.png` with a screenshot of your project)*
+![Street Connect Preview](preview.png)  
+
 
 ---
 ## 📫 Connect With Me
